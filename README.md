@@ -1,2 +1,2 @@
-# show
+# shop
 shop
